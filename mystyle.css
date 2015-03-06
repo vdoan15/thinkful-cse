@@ -1,0 +1,16 @@
+h1 {
+	color: red;
+	text-align: center;
+}
+
+body {
+	background-color: yellow;
+	text-align: left;
+	font-family: "Courier New", Times, serif;
+}
+
+ul.a {
+	list-style-type: circle;
+	text-align: left;
+
+}
